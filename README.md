@@ -1,1 +1,1 @@
-# slidermax.js
+# SLIDERMAX.js
