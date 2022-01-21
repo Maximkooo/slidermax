@@ -1,3 +1,8 @@
+/**
+ * slidermax
+ * v1.0
+ * MIT license (c) 2022 Maksym Synytskyi
+ */
 
 (function(){
 
