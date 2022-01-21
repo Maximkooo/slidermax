@@ -1,6 +1,6 @@
 # SLIDERMAX.js
 
-Flexible slider with easy adjustments for any task.
+Flexible slider with easy adjustments for any task. In the folder with the slider you will find 3 files, each of which can be easily customized and implemented in your work.
 
 Advantages:
 
