@@ -14,3 +14,7 @@ Flexible slider with easy adjustments for any task. In the folder with the slide
 <h2>Version</h2>
 
 release v1.0
+
+<h2>Bug tracker</h2>
+
+If you find a bug, please report it <a href="https://github.com/Maximkooo/slidermax.js/issues">here on Github!</a> 
