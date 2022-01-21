@@ -18,3 +18,7 @@ release v1.0
 <h2>Bug tracker</h2>
 
 If you find a bug, please report it <a href="https://github.com/Maximkooo/slidermax.js/issues">here on Github!</a> 
+
+<h2>Developer</h2>
+
+Developed by Maksym Synytskyi, www.reatlat.net
