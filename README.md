@@ -21,4 +21,4 @@ If you find a bug, please report it <a href="https://github.com/Maximkooo/slider
 
 <h2>Developer</h2>
 
-Developed by Maksym Synytskyi, www.reatlat.net
+Developed by Maksym Synytskyi, www.synytskyi.com
