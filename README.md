@@ -11,4 +11,6 @@ Flexible slider with easy adjustments for any task. In the folder with the slide
   <li>Fingertip flipping on mobile devices</li>
 </ul>
 
-<a href=''>ffff</a>
+<h2>Version</h2>
+
+release v1.0
