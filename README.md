@@ -21,7 +21,7 @@ If you find a bug, please report it <a href="https://github.com/Maximkooo/slider
 
 <h2>Developer</h2>
 
-Developed by Maksym Synytskyi, www.synytskyi.com
+Developed by <a href='https://maximkooo.github.io/synytskyi-portfolio/'>Maksym Synytskyi</a>
 
 <ul>
   <li><a href="https://www.linkedin.com/in/maksym-synytskyi-27a0a7222/">LinkedIn Profile</a></li>
